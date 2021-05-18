@@ -9,13 +9,13 @@ body{
 {
     width: 100%;
     height: 5px;
-    background: #9e49c0;
+    background: #a09c9c;
 }
 
 #header{
     width: 100%;
     height: 90px;
-    background: #3d0e7a;
+    background: #000000;
 
 }
 
@@ -58,14 +58,14 @@ body{
 }
 
 #header #menu ul li a{
-    color: #dda2dd;
+    color: #fafafa;
     text-decoration: none;
     padding: 7px 10px;
     margin: 0px 4px;
 }
 
 #header #menu ul li a:hover{
-    background: #40124d
+    background: #3f3d3f
 }
 
 /*Estilo del Contenido*/
@@ -73,7 +73,7 @@ body{
 #presentacion{
     width: 100%;
     height: auto; overflow: hidden;
-    background: #370654;
+    background: #1e1d1f;
     
 }
 
@@ -96,7 +96,7 @@ body{
 }
 
 .descripcion-pres{
-    color: #8204b4;
+    color: #b3afb4;
     text-align: left;
 }
 
@@ -109,7 +109,7 @@ body{
 
 .button:hover{
     background: #e6e6e6;
-    color: #610b61;
+    color: #7a747a;
 }
 
 #presentacion #centro2 #derecha{
@@ -120,7 +120,7 @@ body{
 .img{
     width: 470px;
     height: 280px;
-    border: 3px solid #9e49c0;
+    border: 3px solid #b1acb3;
     margin: 20px 0px;
     float: right;
 
@@ -152,7 +152,7 @@ body{
 }
 
 #contenidos #centro3 #izquierda h3{
-    color: #410b61;
+    color: #000000;
 }
 
 #contenidos #centro3 #izquierda .descripcion{
@@ -177,7 +177,7 @@ body{
 #contenidos #centro3 #derecha h3{
     text-align: left;
     font-size: 22px;
-    color: #410b61;
+    color: #000000;
 
 }
 
@@ -202,7 +202,7 @@ body{
 
 .leer-mas{
     padding: 4px 10px;
-    background: #830887;
+    background: #3a373a;
     text-decoration: none;
     float: left;
     border-radius: 5px;
@@ -214,7 +214,7 @@ body{
 #pie{
     width: 100%;
     height: 90px;
-    background: #270b3a;
+    background: #111011;
 }
 
 #pie #centro-pie{
